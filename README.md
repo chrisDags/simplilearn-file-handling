@@ -1,6 +1,7 @@
 # simplilearn-file-handling
 
 - Created two runners that demonstrate file handling with and without the JDK 7's NIO package
+- An initial file to append to is included under Resources; files generated when running the code will be placed under Resources as well.
 - This is a maven project using JDK 8
 
 #DESCRIPTION
